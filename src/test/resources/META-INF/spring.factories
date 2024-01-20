@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = com.midorlo.bootlab.\
+    config.TestContainersSpringContextCustomizerFactory,com.midorlo.bootlab.\
+    config.SqlTestContainersSpringContextCustomizerFactory
